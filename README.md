@@ -5,7 +5,7 @@ practice, practice, practice....
 This is an old repo when I prepare system design interview, just for fun, no commercial usage.
 
 ### Tech big words
-nodejs (>=8.0), koa2, ejs, redis, mysql, nginx, pm2
+nodejs (>=8.0, prefer >= 10.14.2), koa2, ejs, redis, mysql, nginx, pm2
 sequelize
 
 ### Usage
