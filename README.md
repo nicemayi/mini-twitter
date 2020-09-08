@@ -21,3 +21,5 @@ redis-cli -h <IP ADDRESS> -p 6379 ping
 cd mini-twitter
 npm install
 npm run dev # localhost:3000
+
+chrome debugger: chrome://inspect/#devices
